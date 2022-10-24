@@ -19,6 +19,11 @@ https://www.kaggle.com/datasets/andrewmvd/spotify-playlists
 - [ ] 
 - [ ] 
 
+## Notes
+- In collaborative filtering, consider weight samples in order to avoid frequent queries or frequent items dominate the objective function
+- Consider cold start problem in collaborative filtering: https://developers.google.com/machine-learning/recommendation/collaborative/summary?hl=en
+- 
+
 ## Useful commands
 
 Update pip on Windows: `python -m pip install --upgrade pip`

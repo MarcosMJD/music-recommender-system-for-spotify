@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pandas = "*"
 numpy = "*"
+lightfm = "*"
 
 [dev-packages]
 pandas = "*"
@@ -13,6 +14,9 @@ numpy = "*"
 ipython = "*"
 jupyter = "*"
 matplotlib = "*"
+ipykernel = "*"
+seaborn = "*"
+pyarrow = "*"
 
 [requires]
 python_version = "3.9"
