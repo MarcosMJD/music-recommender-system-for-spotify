@@ -14,9 +14,11 @@ https://www.kaggle.com/datasets/andrewmvd/spotify-playlists
 - [x] Clone repo and setup environment (pipenv, install libraries)
 - [x] Download dataset
 - [x] EDA in jupyter notebook
+- [x] Analyse sparcity
 - [ ] Set a baseline
-- [ ] 
-- [ ] 
+- [ ] Set model evaluation metrics
+- [x] Analyse solutions
+- [x] Implement matrix factorization model with LightFM
 - [ ] 
 
 ## Notes
